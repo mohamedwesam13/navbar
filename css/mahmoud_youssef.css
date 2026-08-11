@@ -1,0 +1,24 @@
+body{
+margin: 0%;
+
+}
+.NavBar{
+background-color: #081A4E;
+padding: 20px;
+
+
+}
+
+a{
+color:white;
+text-decoration: none;
+margin-right: 100px;
+
+
+}
+.padding1{
+
+padding: 30px;
+background-color:#EAF1FD;
+margin: 0%;
+}
